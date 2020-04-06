@@ -13,6 +13,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
+I'm doing this project with is part of the Data Scientist Nanodegree by Udacity, in order to improve my knowledge in data sciences & machine learning.
+
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
 1. How other developers suggested breaking into the field (what education to pursue)?
